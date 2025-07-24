@@ -59,7 +59,7 @@ Visualizations are included in the notebooks, with breakdowns by:
 | `02_excess_deaths_analysis.ipynb`     | Time series comparison and excess deaths results (2020–2022) |
 | `/data`                               | Raw CSV files used for analysis |
 | `figures/`                            | Saved plots and visualizations |
-| `dissertation_summary.pdf` *(optional)* | Final report or slide deck |
+
 
 ## Author
 
